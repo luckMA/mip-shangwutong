@@ -1,0 +1,11 @@
+
+{
+    "name": "mip-shangwutong",
+    "version": "1.0.0",
+	"description": "report",
+	"author": "malan",
+	"email": "1362998860@qq.com",
+    "engines": {
+        "mip": ">=1.0.3"
+    }
+}
