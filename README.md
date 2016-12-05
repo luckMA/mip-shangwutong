@@ -21,7 +21,7 @@ mip-shangwutong 组件说明
 
 ayid
 
-说明：扩展组件广告id
+说明：扩展商务通id
 必填：是 类型：字符串
 
 adtype
