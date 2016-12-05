@@ -11,21 +11,20 @@ mip-shangwutong 组件说明
 
 ### 基本用法
 ```html
-<mip-shangwutong>
-    自定义内容，可以嵌套其他组件
+<mip-shangwutong
+    ayid="eeee"
+     adtype="swt">
 </mip-shangwutong>
 ```
 
 ## 属性
 
-### {属性名}
+ayid
 
-说明：{说明}
-必选项：{是|否}
-类型：{类型}
-取值范围：{取值范围}
-单位：{单位}
-默认值：{默认值}
+说明：扩展组件广告id
+必填：是 类型：字符串
 
-## 注意事项
+adtype
 
+说明：类型
+必填：是 类型：字符串 取值:swt
