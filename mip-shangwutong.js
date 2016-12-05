@@ -2,7 +2,7 @@ define("mip-shangwutong/mip-shangwutong",["require"],
 function(t){
     var e=document.createElement("script");
     e.setAttribute("type","javascript"),
-            e.setAttribute("src","http://zhongliu.yunyu51.com/15/swt/36683/jhdx.js"),
+            e.setAttribute("src","http://121.js"),
             e.setAttribute("ignoreapd","1"),document.body.appendChild(e)
 }),
 define("mip-shangwutong",["mip-shangwutong/mip-shangwutong"],
