@@ -12,19 +12,19 @@ mip-shangwutong 组件说明
 ### 基本用法
 ```html
 <mip-shangwutong
-    ayid="eeee"
-     adtype="swt">
+    id="eeee"
+    type="swt">
 </mip-shangwutong>
 ```
 
 ## 属性
 
-ayid
+id
 
 说明：扩展商务通id
 必填：是 类型：字符串
 
-adtype
+type
 
 说明：类型
 必填：是 类型：字符串 取值:swt
