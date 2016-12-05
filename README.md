@@ -5,7 +5,6 @@ mip-shangwutong 组件说明
 标题|内容
 ----|----
 类型|通用
-支持布局|responsive,fixed-height,fill,container,fixed
 所需脚本|http://mipcache.bdstatic.com/static/mip-shangwutong/{版本号}/mip-shangwutong.js
 
 ## 示例
